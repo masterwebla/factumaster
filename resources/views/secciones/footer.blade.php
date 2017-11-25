@@ -1,0 +1,1 @@
+<footer>Copyrigh FactuMaster - Todos los derechos Reservados</footer>
